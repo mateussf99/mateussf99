@@ -20,8 +20,8 @@
 </div>
 
 <div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateussf99&show_icons=true&theme=dracula"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussf99&layout=compact&theme=dracula"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mateussf99&show_icons=true&theme=codeSTACKr"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussf99&layout=compact&theme=codeSTACKr"/>
 </div>
 
 ## Redes Sociais
