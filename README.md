@@ -1,7 +1,7 @@
 <img width="330"  src="img/hacker.png" align="right">
 <p align="left">
  
-## Olá!! Eu sou o Mateus
+## Mateus
 
 
 - 🎓 Hoje eu faço faculdade de Ciência da Computação na UFAL
