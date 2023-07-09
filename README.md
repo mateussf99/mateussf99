@@ -20,7 +20,9 @@
 </div>
 
 <div>
-  <img height="170cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussf99&layout=compact&theme=midnight-purple"/>
+   <img height="160px" src="http://github-readme-streak-stats.herokuapp.com?user=mateussf99&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D" >
+  <img height="160px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussf99&layout=compact&theme=midnight-purple"/>
+  <!--<img height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateussf99&theme=radical" > -->
 </div>
 
 ## Redes Sociais
