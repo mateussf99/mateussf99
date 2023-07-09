@@ -20,7 +20,6 @@
 </div>
 
 <div>
-  <img height="170cm"  src="https://github-readme-stats.vercel.app/api?username=mateussf99&show_icons=true&theme=midnight-purple"/>
   <img height="170cm"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussf99&layout=compact&theme=midnight-purple"/>
 </div>
 
